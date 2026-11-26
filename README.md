@@ -136,27 +136,4 @@ https://surpereasy.xyz/
 - **客户端客服**：登录客户端，进入「账号与套餐」，点击「联系客服」。
 - **GitHub Issues**：https://github.com/kkdzx123-a11y/Simplelink-Vpn/issues
 
----
-
-## 📝 项目说明（Project Information）
-
-本 GitHub 仓库主要用于发布 SimpleLink 客户端安装包和版本校验信息。
-
-客户端内部源代码、开发技术栈和构建环境暂未在本仓库公开。
-
----
-
-## 📄 许可证（License）
-
-本仓库目前尚未提供 LICENSE 文件。
-
-在正式添加许可证之前，请勿将本项目视为已经采用某种开源许可证。
-
----
-
-**SimpleLink**
-
-简单连接，保持从容。
-
-官方网站：https://surpereasy.xyz/
 
