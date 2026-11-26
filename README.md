@@ -6,7 +6,8 @@ SimpleLink 是一款面向日常使用的轻量网络加速工具，提供简洁
 
 官方网站：[https://surpereasy.xyz/](https://surpereasy.xyz/)
 
----
+![Uploading image.png…]()
+
 
 ## ✨ 核心功能（Key Features）
 
